@@ -1,14 +1,13 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: AirSim Korea Blog (by Edimoon)
+email: tigerjhmoon@gmail.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  AirSim 딥러닝 관련된 한국어 블로그입니다.
 
 baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+url: https://edimoon777.github.io/AirSim-Deep-Learning-Drone # the base hostname & protocol for your site
+git_address: https://github.com/edimoon777/AirSim-Deep-Learning-Drone
+git_edit_address: https://github.com/edimoon777/AirSim-Deep-Learning-Drone/blob/gh-pages
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
