@@ -1,5 +1,5 @@
 # Site settings
-title: AirSim Deep Learning
+title: AirSim Deep Learning  # AirSim Deep Learning 보다 긴 문장은 모바일에서 적합하지 않음.
 email: tigerjhmoon@gmail.com
 description: >
   AirSim 딥러닝 관련된 한국어 블로그입니다.
