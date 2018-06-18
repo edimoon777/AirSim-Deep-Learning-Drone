@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "End-to-End Deep Learning Tutorial"
-date:   2018-06-18 12:58:00 +0900
+date:   2018-06-18 12:58:00
 categories: Tutorial
 ---
 
