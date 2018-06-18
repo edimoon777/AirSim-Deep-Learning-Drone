@@ -1,13 +1,9 @@
 ---
 layout: post
-title:  "Airsim Usage"
+title:  "Airsim 사용법"
 date:   2018-06-17 11:58:00 +0900
 categories: Airsim
 ---
-
-# AirSim 사용법
-_by Edimoon_
-
 
 ## 단축키  
 'F1': Keyboard shortcuts  
