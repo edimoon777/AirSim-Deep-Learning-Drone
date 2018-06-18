@@ -4,8 +4,6 @@ title:  "AirSim 설치 방법"
 date:   2018-06-17 11:58:00 +0900
 categories: Airsim
 ---
-# AirSim 설치 방법
-_by Edimoon_
 
 제가 테스트한 컴퓨터 환경은 아래와 같습니다.  
 > Lenovo X1 Carbon : i7-5600U 2.6GHz, RAM 8GB, intel HD5500 (내장형 그래픽) =>약10 fps      
