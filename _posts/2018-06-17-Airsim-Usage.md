@@ -2,6 +2,7 @@
 layout: post
 title:  "Airsim 사용법"
 date:   2018-06-17 11:58:00 +0900
+author: Edimoon
 categories: Airsim
 ---
 
