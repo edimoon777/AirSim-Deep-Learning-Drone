@@ -1,8 +1,6 @@
 - title: AirSim
   docs:
   - home
-  - themes
-  - customization
   - test
 
 - title: Unreal Engine
@@ -11,8 +9,10 @@
   - build
   - Add_objects
 
-- title: Examples
+- title: Jekyll Examples
   docs:
+  - themes
+  - customization
   - cheatsheet
   - font-awesome
   - bootstrap
