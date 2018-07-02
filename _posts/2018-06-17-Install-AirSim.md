@@ -10,7 +10,7 @@ categories: Airsim
 > Lenovo X1 Carbon : i7-5600U 2.6GHz, RAM 8GB, intel HD5500 (내장형 그래픽) =>약10 fps      
 > DELL 7577 : i7-7700HQ 2.8GHz, RAM 16GB, nVidia 1060 (6GB) => 잘 돌아감
 
-# 리눅스 설치 방법 (Ubuntu 16.04 LTS 기준)
+## 리눅스 설치 방법 (Ubuntu 16.04 LTS 기준)
 
 ### 1. Epic Game 사이트 등록 [(링크)](https://docs.unrealengine.com/latest/INT/Platforms/Linux/BeginnerLinuxDeveloper/SettingUpAnUnrealWorkflow/1/index.html)   
 먼저, Epic Games 사이트에 등록하고 ID와 PW를 기억해둡니다.   
@@ -45,7 +45,7 @@ Unreal에서 Blocks 프로젝트를 선택합니다.
 '플레이' 버튼을 선택하면 시뮬레이션이 시작됩니다.   
   
 
-# 윈도우 설치 방법  
+## 윈도우 설치 방법  
 **※ AirSim도 MS꺼라 윈도우가 호환성이 좋고 대부분 예제도 윈도우 중심으로 이뤄져 있습니다.**  
 Unreal Engine과 AirSim을 빌드해서 사용하기 위해서는 Visual Studio와 cmake 설치가 필요합니다.  
 *빌드하지 않고 AirSim만 실행하는 경우는 바이너리 실행파일만 다운받으면 됩니다. ([AirSim 실행파일](https://github.com/Microsoft/AirSim/releases))
